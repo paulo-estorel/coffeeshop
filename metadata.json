@@ -1,0 +1,6 @@
+{
+  "name": "Paulo Estorel Coffee Shop",
+  "description": "Artisan specialty coffee, freshly brewed drinks, handcrafted frappes, and savory pastries with online ordering, pickup/delivery tracking, and admin dashboard at Paulo Estorel Coffee Shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
